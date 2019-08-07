@@ -22,6 +22,8 @@ Speed Run Notes is a note editor that displays text, images, and controller symb
   
 ### Necessary . dlls
   - To use Speed Run notes it is neccessary that the sharpDx .dlls be included with the component's .dll
+  - If you want to build Speedrun notes, include the LiveSplit.Core.dll, UpdateManager.dll, and WinFormsColor.dll in the root folder
+    - Also in visual studio install the nuget package for SharpDX
   
 ### How to install
   - Install all dependencies
