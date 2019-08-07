@@ -1,7 +1,8 @@
 # Speedrun-Notes
 TL;DR: A note editor component for LiveSplit
 
-### Thanks to the Summer Research Fellowship program through the Center for Engaged Learning at Furman for making this project possible!
+# Credits
+Special Thanks to Furman and the Summer Research Fellowship program through the Center for Engaged Learning for funding this project!
 
 ### Description
 Speed Run Notes is a note editor that displays text, images, and controller symbols for each split in your livesplit run.
