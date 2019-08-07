@@ -53,3 +53,11 @@ Speed Run Notes is a note editor that displays text, images, and controller symb
     - then click ok in the settings
     - then add another speed run notes component
   - To use the fonts for controller symbols, go to the resources folder and install the fonts
+
+### Loading Examples
+  - Included are some examples
+  - To load an example, open LiveSplit and Speedrun Notes
+  - Go to the Speedrun Notes Settings
+  - Click "Import"
+  - Locate the example folder you want to load
+  - Click on it and then click "ok"
