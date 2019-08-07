@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRunNotes", "SpeedRunNotes\SpeedRunNotes.csproj", "{CEB05AD6-40D2-45F2-9F24-309FFAD71BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB05AD6-40D2-45F2-9F24-309FFAD71BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB05AD6-40D2-45F2-9F24-309FFAD71BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB05AD6-40D2-45F2-9F24-309FFAD71BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB05AD6-40D2-45F2-9F24-309FFAD71BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCB5B48-0B9F-42DD-B6F1-22BD7AB90EAD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,122 @@
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SpeedRunNotes.dll.config
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SpeedRunNotes.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SpeedRunNotes.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\LiveSplit.Core.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\UpdateManager.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\WinFormsColor.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.CoreCompileInputs.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.CopyComplete
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.Display.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.GenerateResource.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\LiveSplit.UI.Components.DisplaySettings.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.Editor.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.Properties.Resources.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.ResolveComReference.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\Shibari.Sub.Core.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.XInput.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.RawInput.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Animation.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Desktop.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.Effects.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D12.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectComposition.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectManipulation.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DXGI.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Animation.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D10.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.Effects.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D12.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectComposition.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectManipulation.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DirectSound.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.MediaFoundation.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.RawInput.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.XAudio2.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\bin\Debug\SharpDX.XInput.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.SymbolHelp.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes\SpeedRunNotes\obj\Debug\SpeedRunNotes.csprojAssemblyReference.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SpeedRunNotes.dll.config
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SpeedRunNotes.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SpeedRunNotes.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\LiveSplit.Core.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Animation.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Desktop.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.Effects.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D12.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectComposition.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectManipulation.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DXGI.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.RawInput.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.XInput.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\Shibari.Sub.Core.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\UpdateManager.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\WinFormsColor.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Animation.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D10.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D11.Effects.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D12.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectComposition.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectManipulation.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DirectSound.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.MediaFoundation.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.RawInput.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.XAudio2.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\bin\Debug\SharpDX.XInput.pdb
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.csprojAssemblyReference.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.ResolveComReference.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.Display.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\LiveSplit.UI.Components.DisplaySettings.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.Editor.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.Properties.Resources.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.SymbolHelp.resources
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.GenerateResource.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.CoreCompileInputs.cache
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.csproj.CopyComplete
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.dll
+C:\Users\dsiglin\Documents\SpeedRunNotes - v1111\SpeedRunNotes\obj\Debug\SpeedRunNotes.pdb
