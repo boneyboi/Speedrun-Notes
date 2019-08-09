@@ -448,6 +448,7 @@ namespace LiveSplit.UI.Components
 
 
                         editor.sheetimgs[sheet].Add(new PictureBox());
+                        editor.sheetimgs[sheet][editor.sheetimgs[sheet].Count - 1].Add(new PictureBox());
                         editor.sheetimgs[sheet][editor.sheetimgs[sheet].Count - 1].Parent = editor.richTextBox1;
 
                         editor.sheetimgs[sheet][editor.sheetimgs[sheet].Count - 1].Location = new Point(X, Y);
@@ -487,6 +488,7 @@ namespace LiveSplit.UI.Components
 
                         
                         editor.sheetimgs[sheet].Add(new PictureBox());
+                        editor.sheetimgs[sheet][editor.sheetimgs[sheet].Count - 1].Add(new PictureBox());
 
                         editor.sheetimgs[sheet][editor.sheetimgs[sheet].Count - 1].Parent = editor.richTextBox1;
 
